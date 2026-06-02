@@ -1,3 +1,4 @@
-for( let i = 1; i < 10000000000; i++ ) {
+let i = 1
+while( i  == 5 ) {
    return null 
 }
